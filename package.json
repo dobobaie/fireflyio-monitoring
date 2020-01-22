@@ -1,7 +1,7 @@
 {
   "name": "fireflyio-monitoring",
   "version": "0.0.1",
-  "description": "",
+  "description": "Fireflyio monitoring is a fireflyio module to manage and control the users connection",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,12 @@
 # [BETA] fireflyio-monitoring
 
+Fireflyio monitoring is a fireflyio module to manage and control the users connection.   
+
+## 🚀 Fireflyio
+
+[Fireflyio server](https://github.com/dobobaie/fireflyio)  
+[Fireflyio client](https://github.com/dobobaie/fireflyio-client)  
+[Fireflyio module monitoring](https://github.com/dobobaie/fireflyio-monitoring)  
 
 ## ☁️ Installation
 
