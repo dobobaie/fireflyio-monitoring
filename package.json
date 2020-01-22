@@ -1,0 +1,28 @@
+{
+  "name": "fireflyio-monitoring",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobobaie/fireflyio-monitoring.git"
+  },
+  "keywords": [
+    "socket.io",
+    "rest",
+    "api"
+  ],
+  "author": "Dobobaie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dobobaie/fireflyio-monitoring/issues"
+  },
+  "homepage": "https://github.com/dobobaie/fireflyio-monitoring#readme",
+  "dependencies": {
+    "get-port": "^5.1.1",
+    "public-ip": "^4.0.0"
+  }
+}
