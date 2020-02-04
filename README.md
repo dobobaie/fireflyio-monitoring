@@ -6,7 +6,9 @@ Fireflyio monitoring is a fireflyio module to manage and control the users conne
 
 [Fireflyio server](https://github.com/dobobaie/fireflyio)  
 [Fireflyio client](https://github.com/dobobaie/fireflyio-client)  
+[Fireflyio module router](https://github.com/dobobaie/fireflyio-router)  
 [Fireflyio module monitoring](https://github.com/dobobaie/fireflyio-monitoring)  
+[Fireflyio module ui-monitoring](https://github.com/dobobaie/fireflyio-ui-monitoring)  
 
 ## ☁️ Installation
 
@@ -14,7 +16,7 @@ Fireflyio monitoring is a fireflyio module to manage and control the users conne
 $ unavaible
 ```
 
-## 💻 Add the module to `fireflyio`
+## 👋 Hello fireflyio-monitoring
 
 ```js
 const Fireflyio = require('fireflyio');
@@ -23,7 +25,7 @@ const FireflyioMonitoring = require('fireflyio-monitoring');
 const app = new Fireflyio();
 
 const options = {};
-app.extend(FireflyioMonitoring, options);
+app.extend(FireflyioMonitoring, options); // add the module
 
 // ...
 ```
